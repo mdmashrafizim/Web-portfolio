@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: gold;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    margin-top: 5%;
+    float: right;
+    margin-right: 15%;
+    width: 100%;
+}
